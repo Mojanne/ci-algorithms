@@ -7,5 +7,8 @@
 
 ## Descreption:
 The purpose of this project is to extract information from a given text.In other words,our objective here is to find the polarity of words retrieved from the sentences.
+<<<<<<< HEAD
 Our dataset which is taken from IMDB consists of 50000 movie reviews.We split the data into two equal halves:Training set and test set.
 Our program must be able to analyze the reviews and distingush their sentiments
+=======
+>>>>>>> 7c48041afede9f46de2457672ee6afb65ca0820a
