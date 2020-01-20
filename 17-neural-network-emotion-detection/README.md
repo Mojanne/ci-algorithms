@@ -6,4 +6,4 @@
 - Mahta Amraji (94012261101)
 
 ## Descreption:
-To be Defined
+The purpose of this project is to extract information from a given text.
