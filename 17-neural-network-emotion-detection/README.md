@@ -6,4 +6,4 @@
 - Mahta Amraji (94012261101)
 
 ## Descreption:
-The purpose of this project is to extract information from a given text.
+The purpose of this project is to extract information from a given text.In other words,our objective here is to find the polarity of words retrieved from the sentences.
